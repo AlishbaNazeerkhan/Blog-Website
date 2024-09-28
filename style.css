@@ -48,7 +48,7 @@ a{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
 }
 
 .card_container{
@@ -208,15 +208,9 @@ a{
 
 
 @media screen and (min-width: 1280px) {
-    .header_desc{
-        width: 80%;
-        font-size: 28px;
-        line-height: 32px;
-    }
 
     .card_container{
         width: 20%;
     }
-
 }
 
